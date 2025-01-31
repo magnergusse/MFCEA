@@ -1,3 +1,3 @@
-# Mecânica dos Fluídos Computacional em Engenharia Aeroespacial
+# Mecânica dos Fluídos Computacional para Engenharia Aeroespacial
 
 # Computational Fluid Mechanics for Aerospace Engineering

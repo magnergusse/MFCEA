@@ -15,3 +15,8 @@ In this course, various topics focused on Computational Fluid Mechanics were cov
 - **T2:** Investigation of the aerodynamic characteristics of the NACA 4412 airfoil.  
 - **T3:** Study of the forces acting on grid fins.
 Note: The simulation files from projects (T1, T2 & T3) exceed the maximum size allowed for upload to the platform.
+
+
+<img src="https://github.com/magnergusse/MFCEA/blob/main/T1/T1.png" alt="T1">
+<img src="https://github.com/magnergusse/MFCEA/blob/main/T2/T2.png" alt="T2">
+<img src="https://github.com/magnergusse/MFCEA/blob/main/T3/Grid_fins.webp" alt="T3">
